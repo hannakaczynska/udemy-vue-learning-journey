@@ -2,7 +2,7 @@
   "name": "vue-find-coach-app",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://hannakaczynska.github.io/udemy-vue-learning-journey/project/vue-find-coach-app",
+  "homepage": "https://hannakaczynska.github.io/udemy-vue-learning-journey/vue-find-coach-app",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
