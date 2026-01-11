@@ -54,6 +54,23 @@ Vue Router, Composition API, and other key features of modern Vue development.
 
 ---
 
+### Main Project: Vue Find Coach App
+
+A single-page Vue application built as the final project of the Udemy course.  
+It demonstrates core Vue skills including:
+
+- Vue 3 Options API
+- Vue Router for SPA navigation
+- Vuex-style state management
+- Integration with an external API
+- Component-based architecture
+
+
+**Project folder:** `project/vue-find-coach-app/`  
+**Live demo:** *coming soon on GitHub Pages*
+
+---
+
 ## 📂 Repository Structure
 
 This repository contains exercises from the course as well as the main project:
