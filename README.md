@@ -65,9 +65,7 @@ It demonstrates core Vue skills including:
 - Integration with an external API
 - Component-based architecture
 
-
-**Project folder:** `project/vue-find-coach-app/`  
-**Live demo:** *coming soon on GitHub Pages*
+**Project folder:** `vue-find-coach-app/`  
 
 ---
 
@@ -80,5 +78,4 @@ vue-animations/             # small practice applications from the course
 vue-app/
 vue-basics/
 ...
-project/
-  └── vue-find-coach-app/   # main project from the course
+vue-find-coach-app/   # main project from the course
