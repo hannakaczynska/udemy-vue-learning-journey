@@ -7,7 +7,7 @@ import BaseCard from "./ui/BaseCard.vue";
 import BaseButton from "./ui/BaseButton.vue";
 import BaseBadge from "./ui/BaseBadge.vue";
 import BaseSpinner from "./ui/BaseSpinner.vue";
-require("dotenv").config();
+
 
 const BaseDialog = defineAsyncComponent(() => import("./ui/BaseDialog.vue"));
 
